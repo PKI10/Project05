@@ -7,4 +7,8 @@ Project 05 version1 completed
 2nd Team Member: <20251044>
 Project 05 version2 completed
 
+<<<<<<< HEAD
 3rd Team Member:<염규현>
+=======
+3rd Team Member:<20231062>
+>>>>>>> feat/id3
