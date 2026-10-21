@@ -6,3 +6,5 @@ Project 05 version1 completed
 2nd Team Member: <박민지>
 2nd Team Member: <20251044>
 Project 05 version2 completed
+
+3rd Team Member:<염규현>
